@@ -13,7 +13,9 @@ Binary Phase Shift Keying (BPSK) is the simplest digital modulation scheme where
 
 The transmission over an AWGN channel is modelled as
 
-![][image1]
+\[
+y = x + n
+\]
 
 Where 
 
