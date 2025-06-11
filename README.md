@@ -13,15 +13,12 @@ Binary Phase Shift Keying (BPSK) is the simplest digital modulation scheme where
 
 The transmission over an AWGN channel is modelled as
 
-\[
 y = x + n
-\]
 
 Where 
 
-![][image2]	 is the transmitted BPSK symbol
-
-·![][image3]  is real-valued Gaussian noise
+- \( x \in \{-1, +1\} \) is the transmitted BPSK symbol  
+- \( n \sim \mathcal{N}(0, \sigma^2) \) is real-valued Gaussian noise
 
 **Theoretical BER for BPSK**
 
