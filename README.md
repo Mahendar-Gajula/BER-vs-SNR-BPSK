@@ -17,7 +17,10 @@ y = x + n
 
 Where 
 
-- \( x \in \{-1, +1\} \) is the transmitted BPSK symbol  
+- $$
+x \in \{-1, +1\}
+$$
+) is the transmitted BPSK symbol  
 - \( n \sim \mathcal{N}(0, \sigma^2) \) is real-valued Gaussian noise
 
 **Theoretical BER for BPSK**
